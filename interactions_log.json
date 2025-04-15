@@ -1,0 +1,335 @@
+[
+    {
+        "interaction_id": "da0dc214-6f78-48b9-8f86-c20b294ba6b9",
+        "timestamp": "2025-04-11T16:38:12.110533",
+        "requested_amount": null,
+        "presented_option": null
+    },
+    {
+        "interaction_id": "cee2b4ac-2227-4127-b9df-c628eb5bf022",
+        "timestamp": "2025-04-11T16:41:37.229039",
+        "requested_amount": null,
+        "presented_option": null
+    },
+    {
+        "interaction_id": "cee2b4ac-2227-4127-b9df-c628eb5bf022",
+        "timestamp": "2025-04-11T16:41:53.894288",
+        "requested_amount": 5000.0,
+        "presented_option": {
+            "product_id": "CONSUMO_12",
+            "requested_amount": 5000.0,
+            "installment_amount": 632.31,
+            "num_installments": 12,
+            "total_amount": 7587.72,
+            "annual_rate": 0.85
+        }
+    },
+    {
+        "interaction_id": "ba9b1f3c-04aa-462a-9ba0-f68b8c0c932e",
+        "timestamp": "2025-04-11T16:46:23.384426",
+        "requested_amount": null,
+        "presented_option": null
+    },
+    {
+        "interaction_id": "ac501f03-d9bc-4bfb-90dd-214a163bb36b",
+        "timestamp": "2025-04-11T16:50:03.205148",
+        "requested_amount": 5000.0,
+        "presented_option": {
+            "product_id": "CONSUMO_12",
+            "requested_amount": 5000.0,
+            "installment_amount": 632.31,
+            "num_installments": 12,
+            "total_amount": 7587.72,
+            "annual_rate": 0.85
+        }
+    },
+    {
+        "interaction_id": "89b948c8-97b6-4fb5-9b8f-aa0755f89fe1",
+        "timestamp": "2025-04-11T16:55:12.273282",
+        "requested_amount": 10000.0,
+        "presented_option": {
+            "product_id": "CONSUMO_24",
+            "requested_amount": 10000.0,
+            "installment_amount": 897.55,
+            "num_installments": 24,
+            "total_amount": 21541.2,
+            "annual_rate": 0.88
+        }
+    },
+    {
+        "interaction_id": "91e16c8f-ea2f-4e58-b5a2-5a57ec3e567f",
+        "timestamp": "2025-04-11T17:10:04.557600",
+        "requested_amount": 12000.0,
+        "presented_option": {
+            "product_id": "CONSUMO_12",
+            "requested_amount": 12000.0,
+            "installment_amount": 1517.54,
+            "num_installments": 12,
+            "total_amount": 18210.48,
+            "annual_rate": 0.85
+        }
+    },
+    {
+        "interaction_id": "2e9e0cbc-a450-4858-8ac1-9c7af38a90bb",
+        "timestamp": "2025-04-11T17:30:32.678220",
+        "requested_amount": 1000000.0,
+        "presented_option": null
+    },
+    {
+        "interaction_id": "9c9bfc69-3d8e-4e76-ab16-587e33488d10",
+        "timestamp": "2025-04-11T17:37:36.816405",
+        "requested_amount": 1000000.0,
+        "presented_option": null
+    },
+    {
+        "interaction_id": "fd1cbd81-9f28-4a7a-a5aa-b75a7b5baa10",
+        "timestamp": "2025-04-11T17:55:05.827627",
+        "requested_amount": 10000.0,
+        "presented_option": null
+    },
+    {
+        "interaction_id": "3ac5a74b-1851-4080-aabc-8671c24bbb5b",
+        "timestamp": "2025-04-11T18:00:10.391890",
+        "requested_amount": 1500000.0,
+        "presented_option": null
+    },
+    {
+        "interaction_id": "f3d7fdd4-b199-4796-b58f-8767111f17d0",
+        "timestamp": "2025-04-11T18:05:25.488962",
+        "requested_amount": 1000000.0,
+        "presented_option": null
+    },
+    {
+        "interaction_id": "8c518326-0c1b-4a28-b4c3-1582de6025c2",
+        "timestamp": "2025-04-11T18:06:21.499935",
+        "requested_amount": null,
+        "presented_option": null
+    },
+    {
+        "interaction_id": "51557b59-5caa-4c33-aac4-14f82bb9a264",
+        "timestamp": "2025-04-11T18:11:13.370447",
+        "requested_amount": 1000.0,
+        "presented_option": {
+            "product_id": "MICRO_12",
+            "requested_amount": 1000.0,
+            "installment_amount": 132.12,
+            "num_installments": 12,
+            "total_amount": 1585.44,
+            "annual_rate": 0.95
+        }
+    },
+    {
+        "interaction_id": "dfc09fff-1e77-4f2b-9e4b-6a5351439a48",
+        "timestamp": "2025-04-11T18:27:00.643503",
+        "requested_amount": 10000.0,
+        "presented_option": {
+            "product_id": "CONSUMO_12",
+            "requested_amount": 10000.0,
+            "installment_amount": 1264.62,
+            "num_installments": 12,
+            "total_amount": 15175.44,
+            "annual_rate": 0.85
+        }
+    },
+    {
+        "interaction_id": "b7bf3b46-54d3-4417-accf-f3b4c7fcbb6f",
+        "timestamp": "2025-04-11T18:32:08.406147",
+        "requested_amount": 50000.0,
+        "presented_option": {
+            "product_id": "CONSUMO_24",
+            "requested_amount": 50000.0,
+            "installment_amount": 4487.77,
+            "num_installments": 24,
+            "total_amount": 107706.48,
+            "annual_rate": 0.88
+        }
+    },
+    {
+        "interaction_id": "4b62b436-fbec-4b43-aeaa-008d542e254d",
+        "timestamp": "2025-04-11T18:32:55.566570",
+        "requested_amount": 12000000.0,
+        "presented_option": null
+    },
+    {
+        "interaction_id": "76df3ac7-2670-4470-9f25-e0079683e180",
+        "timestamp": "2025-04-11T18:39:30.622404",
+        "requested_amount": 1200000.0,
+        "presented_option": null
+    },
+    {
+        "interaction_id": "7b896f57-31fd-425c-9738-c8f1333b3ab5",
+        "timestamp": "2025-04-11T21:52:12.005093",
+        "requested_amount": 45000.0,
+        "presented_option": {
+            "product_id": "CONSUMO_24",
+            "requested_amount": 45000.0,
+            "installment_amount": 4039.0,
+            "num_installments": 24,
+            "total_amount": 96936.0,
+            "annual_rate": 0.88
+        }
+    },
+    {
+        "interaction_id": "4fa8b9ea-2c3d-40a8-bac4-7215266d9d4e",
+        "timestamp": "2025-04-11T22:46:26.892419",
+        "requested_amount": null,
+        "credit_type_purpose": null,
+        "monthly_income": null,
+        "monthly_expenses": null,
+        "cashflow_description": null,
+        "preference": null,
+        "is_unaffordable": false,
+        "presented_option": null,
+        "calculation_error_occurred": false
+    },
+    {
+        "interaction_id": "c13aa52d-6a53-4115-b9ea-d73da89f5a5f",
+        "timestamp": "2025-04-11T22:56:45.873718",
+        "requested_amount": 50000.0,
+        "credit_type_purpose": "prendario",
+        "monthly_income": null,
+        "monthly_expenses": null,
+        "cashflow_description": null,
+        "preference": null,
+        "is_unaffordable": false,
+        "presented_option": null,
+        "calculation_error_occurred": false
+    },
+    {
+        "interaction_id": "8f5711d0-d3f2-49da-b077-d18d25367e93",
+        "timestamp": "2025-04-11T22:58:26.428308",
+        "requested_amount": 50000.0,
+        "credit_type_purpose": "prendario",
+        "monthly_income": null,
+        "monthly_expenses": null,
+        "cashflow_description": null,
+        "preference": null,
+        "is_unaffordable": false,
+        "presented_option": null,
+        "calculation_error_occurred": false
+    },
+    {
+        "interaction_id": "b8283fbc-c3d3-42fe-b4e8-01862caa09c6",
+        "timestamp": "2025-04-11T23:04:09.744142",
+        "requested_amount": 50000.0,
+        "credit_type_purpose": "prendario",
+        "monthly_income": 30000.0,
+        "monthly_expenses": 20000.0,
+        "cashflow_description": "Primer día hábil del mes.",
+        "preference": "cuota_baja",
+        "is_unaffordable": false,
+        "presented_option": {
+            "product_id": "CONSUMO_24",
+            "credit_type": null,
+            "requested_amount": 50000.0,
+            "installment_amount": 4487.77,
+            "num_installments": 24,
+            "total_amount": 107706.48,
+            "annual_rate": 0.88
+        },
+        "calculation_error_occurred": false
+    },
+    {
+        "interaction_id": "9322a22a-77b7-4e56-8ecc-85137d480c14",
+        "timestamp": "2025-04-14T18:57:06.018953",
+        "company_name": null,
+        "responsible_name": null,
+        "employee_count": null,
+        "expense_light": null,
+        "expense_fuel": null,
+        "expense_gas": null,
+        "employee_transport_method": null
+    },
+    {
+        "interaction_id": "7a587ecf-c536-4664-88c5-4aa2e502efa6",
+        "timestamp": "2025-04-14T19:00:09.768941",
+        "company_name": null,
+        "responsible_name": null,
+        "employee_count": null,
+        "expense_light": null,
+        "expense_fuel": null,
+        "expense_gas": null,
+        "employee_transport_method": null
+    },
+    {
+        "interaction_id": "284107e1-70b8-48b6-b4ab-2a6eadcb1687",
+        "timestamp": "2025-04-14T19:03:40.650211",
+        "company_name": "ruedas",
+        "responsible_name": "fini",
+        "employee_count": null,
+        "expense_light": null,
+        "expense_fuel": null,
+        "expense_gas": null,
+        "employee_transport_method": null
+    },
+    {
+        "interaction_id": "065def24-67f3-4e5e-8a37-543d60bd5507",
+        "timestamp": "2025-04-14T19:04:59.162439",
+        "company_name": "ruedas",
+        "responsible_name": "fini",
+        "employee_count": null,
+        "expense_light": null,
+        "expense_fuel": null,
+        "expense_gas": null,
+        "employee_transport_method": null
+    },
+    {
+        "interaction_id": "72623058-062f-4745-89e3-a22d86cad4d2",
+        "timestamp": "2025-04-14T19:09:01.479953",
+        "company_name": "r",
+        "responsible_name": "r",
+        "employee_count": null,
+        "expense_light": null,
+        "expense_fuel": null,
+        "expense_gas": null,
+        "employee_transport_method": null
+    },
+    {
+        "interaction_id": "27b4c94a-2234-4beb-adcf-c39d63a5c510",
+        "timestamp": "2025-04-15T13:17:34.686081",
+        "company_name": "r",
+        "responsible_name": "r",
+        "employee_count": null,
+        "expense_light": null,
+        "expense_fuel": null,
+        "expense_gas": null,
+        "employee_transport_method": null
+    },
+    {
+        "interaction_id": "4a347678-ad79-4400-897d-61dc0c162621",
+        "timestamp": "2025-04-15T13:37:24.433996",
+        "company_name": "ruedas",
+        "responsible_name": "josefina",
+        "employee_count": 5,
+        "expense_light": 10000.0,
+        "expense_fuel": 5000.0,
+        "expense_gas": 0.0,
+        "employee_transport_method": "combinado, algunos en bondi y otros trabajan desde la casa"
+    },
+    {
+        "interaction_id": "7a8178ea-ec32-4165-8155-b59627dbd95f",
+        "timestamp": "2025-04-15T14:42:44.266969",
+        "company_name": "ruedas",
+        "responsible_name": "fini",
+        "employee_count": 5,
+        "electricity_kwh": 1500.0,
+        "fuel_type": "gasolina",
+        "fuel_consumption": 500.0,
+        "gas_consumption": 0,
+        "employee_commute_distance": 20.0,
+        "transport_pct_car": 60,
+        "transport_pct_public": 20,
+        "transport_pct_green": 20,
+        "waste_kg": 200.0,
+        "recycle_pct": 0,
+        "water_consumption": 500.0,
+        "paper_consumption": 40.0,
+        "office_sqm": 110.0,
+        "climate_control": "aire_acondicionado",
+        "air_travel_km": 0,
+        "ground_travel_km": 0,
+        "carbon_footprint": 2.7128249999999996,
+        "carbon_per_employee": 0.542565,
+        "sustainability_score": 36
+    }
+]
